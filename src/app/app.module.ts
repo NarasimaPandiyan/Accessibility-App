@@ -8,6 +8,9 @@ import { YnNComponent } from './yn-n/yn-n.component';
 import { FooterComponent } from './footer/footer.component';
 import { ConvoComponent } from './convo/convo.component';
 import { ActionsComponent } from './actions/actions.component';
+import { HygComponent } from './hyg/hyg.component';
+import { DrinksComponent } from './drinks/drinks.component';
+import { FoodComponent } from './food/food.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +19,10 @@ import { ActionsComponent } from './actions/actions.component';
     YnNComponent,
     FooterComponent,
     ConvoComponent,
-    ActionsComponent
+    ActionsComponent,
+    HygComponent,
+    DrinksComponent,
+    FoodComponent
   ],
   imports: [
     BrowserModule,
