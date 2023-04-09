@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">accessibility-app</string>
-    <string name="title_activity_main">accessibility-app</string>
-    <string name="package_name">codes.narasima.app</string>
-    <string name="custom_url_scheme">codes.narasima.app</string>
-</resources>
